@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ド！ド！ド！",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-03T06:04:44.741978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ド!ド!ド!",
+      "artist": "みらくらぱーく!",
+      "has_synced": true,
+      "path": "select/01_ド!ド!ド!_みらくらぱーく!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ド！ド！ド！ (104期 Ver.)",
+      "artist": "みらくらぱーく！",
+      "has_synced": true,
+      "path": "select/02_ド!ド!ド!_(104期_Ver.)_みらくらぱーく!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ド!ド!ド!",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ド!ド!ド!_みらくらぱーく!.txt"
+    }
+  ]
+}
